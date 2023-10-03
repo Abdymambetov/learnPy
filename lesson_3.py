@@ -66,6 +66,7 @@
 #         else:
 #             print(eng[rus.index(i)], end='')
 
+
 vowels = "aeiouAEIOUаеёиоуыэюяАЕЁИОУЫЭЮЯ"
 consonants = "bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZбвгджзйклмнпрстфхцчшщБВГДЖЗЙКЛМНПРСТФХЦЧШЩ"
 
